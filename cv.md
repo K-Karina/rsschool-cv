@@ -18,3 +18,10 @@ In 2020, I started to work in an IT company as a copywriter. Now, after 9 months
 - CSS
 - JavaScript
 - Git
+
+## Code Example
+
+```
+const text = 'When \t\n you play a \t\n game of thrones you win or you die.';
+console.log(text.substring(4, 15).trim().length);
+```
