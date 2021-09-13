@@ -35,9 +35,9 @@ console.log(text.substring(4, 15).trim().length);
 
 - University: Belarusian State University, bachelor's degree in Philology
 - Courses:
-  *Code Basics: [HTML](https://ru.code-basics.com/languages/html)
-  *Code Basics: [CSS](https://ru.code-basics.com/languages/css)
-  \*Code Basics: [JavaScript](https://ru.code-basics.com/languages/javascript)
+  - Code Basics: [HTML](https://ru.code-basics.com/languages/html)
+  - Code Basics: [CSS](https://ru.code-basics.com/languages/css)
+  - Code Basics: [JavaScript](https://ru.code-basics.com/languages/javascript)
 
 ## English language proficiency
 
