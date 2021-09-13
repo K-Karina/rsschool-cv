@@ -40,3 +40,5 @@ console.log(text.substring(4, 15).trim().length);
   \*Code Basics: [JavaScript](https://ru.code-basics.com/languages/javascript)
 
 ## English language proficiency
+
+C1 (I had been practicing English when I was in the USA as an exchange student)
